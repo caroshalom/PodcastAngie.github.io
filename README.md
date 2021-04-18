@@ -1,4 +1,4 @@
-#Podcast Angie Corredor
+#Podcast Channel Angie Corredor
 
 Este es un podcast hecho a base de HTML y CSS
 
